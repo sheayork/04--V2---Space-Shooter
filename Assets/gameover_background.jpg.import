@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stars.jpg-8b80bad2caf4f106e1367f8cd71be461.stex"
+path="res://.import/gameover_background.jpg-4e2a8f019a4548397bef4091fa71aefd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/stars.jpg"
-dest_files=[ "res://.import/stars.jpg-8b80bad2caf4f106e1367f8cd71be461.stex" ]
+source_file="res://Assets/gameover_background.jpg"
+dest_files=[ "res://.import/gameover_background.jpg-4e2a8f019a4548397bef4091fa71aefd.stex" ]
 
 [params]
 
