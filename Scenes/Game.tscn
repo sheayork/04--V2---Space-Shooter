@@ -35,7 +35,7 @@ one_shot = true
 [node name="Enemy Bullets" type="Node2D" parent="."]
 
 [node name="Player" type="KinematicBody2D" parent="."]
-position = Vector2( 545, 684 )
+position = Vector2( 545, 544 )
 script = ExtResource( 4 )
 __meta__ = {
 "_edit_group_": true
