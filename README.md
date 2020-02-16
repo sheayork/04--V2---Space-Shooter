@@ -1,2 +1,2 @@
-# 04 -V2 - Space Shooter
- Following the video for the class, this is just a simple space shooter.
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
